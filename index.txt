@@ -1,1 +1,4 @@
-console.log('芦小雪2')
+﻿console.log('芦小雪2')
+function(){
+	alert("abc");
+}
